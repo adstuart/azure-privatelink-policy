@@ -1,3 +1,13 @@
+> [!CAUTION]
+> **This repo is archived and no longer maintained (April 2026).** The governance patterns described here are superseded by official Azure landing zone guidance for Private Endpoint management at scale.
+>
+> **Use these instead:**
+> - [Private Link and DNS integration at scale (CAF)](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/private-link-and-dns-integration-at-scale)
+> - [Effortless Private Endpoint management in Azure Landing Zones](https://techcommunity.microsoft.com/blog/azurenetworkingblog/effortless-private-endpoint-management-in-azure-landing-zones-a-streamlined-and-/4231936)
+> - [DNS best practices for Azure Landing Zones](https://techcommunity.microsoft.com/blog/azurenetworkingblog/dns-best-practices-for-implementation-in-azure-landing-zones/4420567)
+
+---
+
 # Azure Private Link Governance and RBAC
 Guidance on the use of Azure Policy and Azure Role Based Access Control (RBAC) when working with Azure Private Link
 
